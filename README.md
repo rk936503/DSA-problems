@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rk936503/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rk936503/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rk936503/DSA-problems/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/rk936503/DSA-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
