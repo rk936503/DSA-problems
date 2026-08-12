@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/rk936503/DSA-problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/rk936503/DSA-problems/tree/master/0303-range-sum-query-immutable) |
+| [0895-maximum-frequency-stack](https://github.com/rk936503/DSA-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/rk936503/DSA-problems/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rk936503/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rk936503/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/rk936503/DSA-problems/tree/master/0895-maximum-frequency-stack) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rk936503/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rk936503/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0856-score-of-parentheses) |
+| [0895-maximum-frequency-stack](https://github.com/rk936503/DSA-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/rk936503/DSA-problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/rk936503/DSA-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/rk936503/DSA-problems/tree/master/0456-132-pattern) |
+| [0895-maximum-frequency-stack](https://github.com/rk936503/DSA-problems/tree/master/0895-maximum-frequency-stack) |
 ## Data Stream
 |  |
 | ------- |
