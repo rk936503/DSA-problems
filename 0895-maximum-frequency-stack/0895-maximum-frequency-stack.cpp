@@ -1,3 +1,17 @@
+// push(val):
+//  Increase frequency of val.
+//  Update maxFreq.
+//  Push val into the stack corresponding to its new frequency.
+
+// pop():
+//  Take the stack corresponding to maxFreq.
+//  The top element is the most recently pushed element
+//    -having the highest frequency.
+//  Pop it.
+//  Decrease its frequency in freqMap.
+//  If that frequency stack becomes empty:
+//       -decrease maxFreq.
+//  Return the popped element.
 class FreqStack {
 public:
     unordered_map<int,int> freqMap;
