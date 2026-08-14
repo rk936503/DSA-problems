@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rk936503/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/rk936503/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/rk936503/DSA-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1696-jump-game-vi](https://github.com/rk936503/DSA-problems/tree/master/1696-jump-game-vi) |
 ## Design
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/rk936503/DSA-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1696-jump-game-vi](https://github.com/rk936503/DSA-problems/tree/master/1696-jump-game-vi) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/rk936503/DSA-problems/tree/master/1696-jump-game-vi) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,8 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/rk936503/DSA-problems/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/rk936503/DSA-problems/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
