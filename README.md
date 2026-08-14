@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rk936503/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/rk936503/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/rk936503/DSA-problems/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/rk936503/DSA-problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rk936503/DSA-problems/tree/master/0496-next-greater-element-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rk936503/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,4 +95,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rk936503/DSA-problems/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
