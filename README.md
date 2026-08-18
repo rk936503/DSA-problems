@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rk936503/DSA-problems/tree/master/0303-range-sum-query-immutable) |
 | [0895-maximum-frequency-stack](https://github.com/rk936503/DSA-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/rk936503/DSA-problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/rk936503/DSA-problems/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rk936503/DSA-problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/rk936503/DSA-problems/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/rk936503/DSA-problems/tree/master/0933-number-of-recent-calls) |
 | [1425-constrained-subsequence-sum](https://github.com/rk936503/DSA-problems/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rk936503/DSA-problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/rk936503/DSA-problems/tree/master/1696-jump-game-vi) |
