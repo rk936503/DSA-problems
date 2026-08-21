@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0649-dota2-senate](https://github.com/rk936503/DSA-problems/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/rk936503/DSA-problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rk936503/DSA-problems/tree/master/0933-number-of-recent-calls) |
 | [1425-constrained-subsequence-sum](https://github.com/rk936503/DSA-problems/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rk936503/DSA-problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/rk936503/DSA-problems/tree/master/2073-time-needed-to-buy-tickets) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/rk936503/DSA-problems/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
