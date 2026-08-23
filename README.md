@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/rk936503/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/rk936503/DSA-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/rk936503/DSA-problems/tree/master/0962-maximum-width-ramp) |
 | [1425-constrained-subsequence-sum](https://github.com/rk936503/DSA-problems/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rk936503/DSA-problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1696-jump-game-vi](https://github.com/rk936503/DSA-problems/tree/master/1696-jump-game-vi) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/rk936503/DSA-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/rk936503/DSA-problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/rk936503/DSA-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/rk936503/DSA-problems/tree/master/0962-maximum-width-ramp) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rk936503/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rk936503/DSA-problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/rk936503/DSA-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/rk936503/DSA-problems/tree/master/0962-maximum-width-ramp) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
+## Two Pointers
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/rk936503/DSA-problems/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
