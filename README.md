@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rk936503/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rk936503/DSA-problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rk936503/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
 | [0739-daily-temperatures](https://github.com/rk936503/DSA-problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/rk936503/DSA-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1425-constrained-subsequence-sum](https://github.com/rk936503/DSA-problems/tree/master/1425-constrained-subsequence-sum) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/rk936503/DSA-problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/rk936503/DSA-problems/tree/master/0303-range-sum-query-immutable) |
+| [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
 | [0895-maximum-frequency-stack](https://github.com/rk936503/DSA-problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/rk936503/DSA-problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rk936503/DSA-problems/tree/master/0933-number-of-recent-calls) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/rk936503/DSA-problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rk936503/DSA-problems/tree/master/0933-number-of-recent-calls) |
 | [1425-constrained-subsequence-sum](https://github.com/rk936503/DSA-problems/tree/master/1425-constrained-subsequence-sum) |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/rk936503/DSA-problems/tree/master/0649-dota2-senate) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
