@@ -160,8 +160,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/rk936503/DSA-problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/rk936503/DSA-problems/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
