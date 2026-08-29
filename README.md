@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rk936503/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/rk936503/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/rk936503/DSA-problems/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/rk936503/DSA-problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rk936503/DSA-problems/tree/master/0496-next-greater-element-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/rk936503/DSA-problems/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/rk936503/DSA-problems/tree/master/0962-maximum-width-ramp) |
 ## Floyd's Cycle Finding Algorithm
@@ -177,4 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
