@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/rk936503/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rk936503/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0895-maximum-frequency-stack](https://github.com/rk936503/DSA-problems/tree/master/0895-maximum-frequency-stack) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0622-design-circular-queue](https://github.com/rk936503/DSA-problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -167,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/rk936503/DSA-problems/tree/master/0962-maximum-width-ramp) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
