@@ -16,7 +16,7 @@ public:
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
         while(l1!=nullptr && l2!=nullptr){
-            if(l1->val < l2->val){
+            if(l1->val <= l2->val){
                 temp->next = l1;
                 temp = l1;
                 l1 = l1->next;
@@ -29,7 +29,7 @@ public:
         }
         if(l1) temp->next = l1;
         else temp->next = l2;
-        
+
         return dummy->next;
     }
 };
