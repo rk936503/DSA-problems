@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rk936503/DSA-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/rk936503/DSA-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/rk936503/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/rk936503/DSA-problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rk936503/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rk936503/DSA-problems/tree/master/0503-next-greater-element-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/rk936503/DSA-problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rk936503/DSA-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
