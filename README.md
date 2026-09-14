@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rk936503/DSA-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/rk936503/DSA-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/rk936503/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/rk936503/DSA-problems/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/rk936503/DSA-problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/rk936503/DSA-problems/tree/master/0641-design-circular-deque) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rk936503/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0649-dota2-senate](https://github.com/rk936503/DSA-problems/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/rk936503/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rk936503/DSA-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rk936503/DSA-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rk936503/DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rk936503/DSA-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rk936503/DSA-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rk936503/DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rk936503/DSA-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rk936503/DSA-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
