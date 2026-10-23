@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rk936503/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rk936503/DSA-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rk936503/DSA-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/rk936503/DSA-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/rk936503/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rk936503/DSA-problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rk936503/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rk936503/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/rk936503/DSA-problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rk936503/DSA-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/rk936503/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rk936503/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rk936503/DSA-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rk936503/DSA-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/rk936503/DSA-problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
